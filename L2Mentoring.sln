@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCiCd.Api", "HelloCiCd.Api\HelloCiCd.Api.csproj", "{FC9D8EFE-B044-4ABB-9DB0-ED0EEC90142C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCiCd.Api.Test", "HelloCiCd.Api.Test\HelloCiCd.Api.Test.csproj", "{2C41492D-D42D-424B-9267-E6BEB1B1A419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9D8EFE-B044-4ABB-9DB0-ED0EEC90142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9D8EFE-B044-4ABB-9DB0-ED0EEC90142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9D8EFE-B044-4ABB-9DB0-ED0EEC90142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9D8EFE-B044-4ABB-9DB0-ED0EEC90142C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C41492D-D42D-424B-9267-E6BEB1B1A419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C41492D-D42D-424B-9267-E6BEB1B1A419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C41492D-D42D-424B-9267-E6BEB1B1A419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C41492D-D42D-424B-9267-E6BEB1B1A419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA79F23-FBB2-4DA9-9956-62D81FF41AAA}
+	EndGlobalSection
+EndGlobal
